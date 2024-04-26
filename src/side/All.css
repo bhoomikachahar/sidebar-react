@@ -1,0 +1,36 @@
+.clr1{
+    background-color: 
+    #dae2fbd7 !important;
+  }
+  .bor {
+    border-right: 1px solid #d6cbcbe0;
+    height: 100vh;
+  }
+  body{
+    background-color: rgb(232, 248, 255) !important;
+  }
+  .mrg{
+    margin-left: 20rem;
+  }
+  .wd{
+    width: 90% !important;
+  }
+  .clr1:hover{
+    background-color: cornflowerblue !important;
+    color: white !important;
+  }
+  .clr2{
+    background-color: 
+    #dae2fbd7 !important;
+  }
+  .clr2:hover{
+    background-color: rgb(56, 56, 253) !important;
+    color: white !important;
+  }
+  .shadow{
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); 
+    transition: box-shadow 0.3s ease;
+  }
+.font1{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}  
